@@ -1,0 +1,45 @@
+# Lista de redes sociales para bloqueo en pfBlocker
+# ------------------------------------------------
+
+# Facebook
+facebook.com
+www.facebook.com
+m.facebook.com
+fbcdn.net
+fb.com
+messenger.com
+workplace.com
+
+# Instagram
+instagram.com
+www.instagram.com
+cdninstagram.com
+
+# TikTok
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+tiktokcdn.com
+
+# X (antes Twitter)
+twitter.com
+www.twitter.com
+x.com
+t.co
+
+# Snapchat
+snapchat.com
+www.snapchat.com
+
+# YouTube / Shorts (opcional si quieres limitar también)
+youtube.com
+www.youtube.com
+youtu.be
+
+# LinkedIn
+linkedin.com
+www.linkedin.com
+
+# Reddit
+reddit.com
+www.reddit.com
